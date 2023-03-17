@@ -34,3 +34,11 @@ Start the application (screenshots are from Mac)
 <img src="https://user-images.githubusercontent.com/10873640/226003347-bf512618-6c74-4604-9bb1-9514a0b6632e.png" width="200" />
 
 <img width="416" alt="Maui6" src="https://user-images.githubusercontent.com/10873640/226003569-c8f31699-7c12-4532-850b-dd944624d40f.png">
+
+
+## Video
+https://user-images.githubusercontent.com/10873640/226030582-cc67b325-6d1d-4b80-add0-534649a3b250.mp4
+
+
+
+

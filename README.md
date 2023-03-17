@@ -2,6 +2,11 @@
 On screen controls are not working in different scenarios.
 In both scenarions the same content page is used.
 
+The relevant code is copied from CommunityToolkit/Maui to have a working scenario.
+
+### How to reproduce
+
+
 Start the application (screenshots are from Mac)
 
 ## scenario 1: working on screen controls 
